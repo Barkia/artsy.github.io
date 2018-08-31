@@ -36,11 +36,23 @@ you'll be able to make your pairing session much more valuable.
 
 To think about when pairing is most valuable, let's think about code review first. Modern software organizations
 have implemented a process where engineers send pull requests to get reviews on GitHub (or whatever tool your
-organization uses). This is a very powerful process, but most of us have probably experienced a situation where a
-pull request with a very simple change created a very long discussion. Sometimes that's because of your lack of
-context in the work you are doing. Sometimes it's because you are working on a system you are unfamiliar with. Your
-co-worker left a lot of comments on your pull request, and you had to push a lot of extra commits, or even re-wrote
-the entire pull request. That's when pairing becomes most valuable to your team.
+organization uses for reviewing code). This is a very powerful process, but most of us have probably experienced a
+situation where a pull request with a very simple change created a very long discussion. Sometimes
+that's because of your lack of context in the work you are doing. Sometimes it's because you are working on a
+system you are unfamiliar with. Your co-worker left a lot of comments on your pull request, and you had to push a lot of extra commits, or even re-wrote the entire pull request. That's when pairing becomes most valuable to your team.
+
+I joined Artsy back in February 2017. Coming from an agile consustancy and a photo-product company, I was nowhere close to an Art expert when I actually started working here. This was the time I wanted to question not just technical questions, but also general questions about the art industry. How do people find and purchase artworks? Who actually sells artworks? What is an art fair? And auctions? On the other hand, Christina Thompson, also a software engineer at Artsy, had been at Artsy for more than two years.
+
+<!-- wrire more about my first experience on pairing at Artsy -->
+
+### When not to pair program?
+
+While pairing is a useful tool, it's not the silver bullet we can utilize to solve all software problems. As explained
+above, pair programming originals from the culture of code review. As complex, long-standing pull requests exist,
+there are also simple changes that don't require a lot of disucssions. Occasionally, your pull request is very long with a
+full of deprecated method names, or you
+
+- Do we do it as much as we'd want?
 
 <!-- - Value in productivity -->
 
@@ -54,15 +66,6 @@ the entire pull request. That's when pairing becomes most valuable to your team.
 
   - driver and navigator
   - ping-pong pairing
-
-### When not to pair program?
-
-While pairing is a useful tool, it's not the silver bullet we can use to solve all software problems. As explained
-above, pair programming originals from the culture of code review. As complex, long-standing pull requests exit,
-there are also pull requests that don't need a lot of attention. Occasionally, your pull request is very long with a
-full of deprecated method names or a
-
-- Do we do it as much as we'd want?
 
 <!-- - What companies provides a good best examples? -->
 
